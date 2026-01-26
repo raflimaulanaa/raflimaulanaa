@@ -60,7 +60,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflimaulanaa&layout=compact&theme=tokyonight"/>
   </a>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raflimaulanaa&theme=tokyonight" alt="git-streak" />
-</div>
