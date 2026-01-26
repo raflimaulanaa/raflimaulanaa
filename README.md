@@ -8,7 +8,7 @@
     <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
   </p>
   
-  <a href="mailto:EMAIL_ANDA@gmail.com">
+  <a href="mailto:raflimaulanaa06@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://portfolio-anda.com">
