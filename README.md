@@ -1,16 +1,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Hi there, I'm <a href="https://github.com/USERNAME_GITHUB_ANDA">Rafli Maulana</a>! <img src="https://media.giphy.com/media/hvRJCLFzcuMiM/giphy.gif" width="30px"/></h1>
+  <h1>Hi there, I'm <a href="https://github.com/raflimaulanaa">Rafli Maulana</a>! <img src="https://media.giphy.com/media/hvRJCLFzcuMiM/giphy.gif" width="30px"/></h1>
   
   <h3>👨‍💻 Software Engineer | 🚀 Content Creator | ☕ Coffee Lover</h3>
 
   <p>
     <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
   </p>
-
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  
   <a href="mailto:EMAIL_ANDA@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
