@@ -5,7 +5,7 @@
   <h3>👨‍💻 Software Engineer | 🚀 Content Creator | ☕ Coffee Lover</h3>
 
   <p>
-    <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
+    <em>"A computer is like air conditioning: it becomes useless when you open windows."</em>
   </p>
   
   <a href="mailto:raflimaulanaa06@gmail.com">
