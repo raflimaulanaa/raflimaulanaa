@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl4MmsxZTEyZGhnNmhxMWJwYTB6MHVuNHNkdTV5dmZzdHB5cWJ3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWAcpJsFT9mvrv0e7a/giphy.gif" width="100" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl4MmsxZTEyZGhnNmhxMWJwYTB6MHVuNHNkdTV5dmZzdHB5cWJ3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWAcpJsFT9mvrv0e7a/giphy.gif"/>
   <h1>Hi there, I'm <a href="https://github.com/raflimaulanaa">Rafli Maulana</a>! <img src="https://media.giphy.com/media/hvRJCLFzcuMiM/giphy.gif" width="30px"/></h1>
   
   <h3>👨‍💻 Software Engineer | 🚀 Content Creator | ☕ Coffee Lover</h3>
